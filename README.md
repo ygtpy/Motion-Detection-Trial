@@ -117,3 +117,5 @@ python trial.py
 + *The output video will be saved as output222.avi with motion highlighted by rectangles.*
 + *Hareketin çıktı videosu output222.avi olarak kaydedilecektir.*
 
+# [LinkedIn](https://www.linkedin.com/in/yigitpy03/) #
+
